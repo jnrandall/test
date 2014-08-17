@@ -2,7 +2,7 @@
 
 from random import randint
 
-#board setup
+#board setup is the bst!!!!
 
 board = []
 
